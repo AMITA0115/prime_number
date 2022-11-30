@@ -6,7 +6,7 @@ for(let i=2; i<num; i++){
     }
 }
 if(flag){
-    cansolole.log("Prime")
+    console.log("Prime")
 } else {
     console.log("Not prime")
 }
